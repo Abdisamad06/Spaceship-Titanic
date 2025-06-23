@@ -6,7 +6,7 @@ Bienvenue en l’an **2912**. Suite à une collision avec une anomalie spatio-te
 
 ---
 
-## 🎯 Objectifs du projet
+##  Objectifs du projet
 
 - Construire un modèle de classification binaire (transporté ou non)
 - Développer une interface conviviale avec **Streamlit**
@@ -15,7 +15,7 @@ Bienvenue en l’an **2912**. Suite à une collision avec une anomalie spatio-te
 
 ---
 
-## 🖥️ Technologies utilisées
+##  Technologies utilisées
 
 - Python 3.x
 - Pandas / Scikit-learn
